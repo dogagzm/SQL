@@ -1,5 +1,7 @@
 
---1. (SELECT)
+
+-- HOMEWORK2
+--1. (SELECT) 
 select * from customer
 --2. (SELECT)
 select * from customer 
