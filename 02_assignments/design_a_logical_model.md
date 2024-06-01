@@ -16,6 +16,7 @@ _Hint, search type 1 vs type 2 slowly changing dimensions._
 Bonus: Are there privacy implications to this, why or why not?
 ```
 Your answer...
+yes, privacy concerns exist. customer should provide consent to store their historical address data.
 ```
 
 ## Question 4
@@ -24,6 +25,8 @@ Review the AdventureWorks Schema [here](https://i.stack.imgur.com/LMu4W.gif)
 Highlight at least two differences between it and your ERD. Would you change anything in yours?
 ```
 Your answer...
+1- there are seperated smaller tables such as EmailAddress, StateProvince, AddressType...so on that will less leg work playing with data. easier to understand relationships and pull related information only.
+2- shematic zoning structure makes easier to give access/authorization to certain employees for selected tables.  
 ```
 
 # Criteria
